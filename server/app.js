@@ -25,7 +25,7 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/api/post', require('../routes/routes'));
 
-mongoose.connect(process.env.DB_URI, {
+mongoose.connect('mongodb://localhost:27017/git_moviewebsite', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: true,
