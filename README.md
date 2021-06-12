@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="500px" height="450px" src="https://s4.uupload.ir/files/1_yvni.png" />
+  <img width="800px" height="450px" src="https://s4.uupload.ir/files/1_yvni.png" />
 </div>
 
 # mevnfullstack
