@@ -3,6 +3,7 @@ import axios from 'axios';
 const url = 'http://localhost:5000/api/post';
 
 export default class API {
+    
     // get all post from api
     static async getAllPost() {
         const res = await axios.get(url);
