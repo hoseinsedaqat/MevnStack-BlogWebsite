@@ -112,7 +112,7 @@ export default {
       {
         text: "Explore components",
         href: "https://vuetifyjs.com/components/api-explorer",
-      },
+      }, 
       {
         text: "Select a layout",
         href: "https://vuetifyjs.com/getting-started/pre-made-layouts",
